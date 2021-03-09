@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: CREATE YOUR OWN VPN USING SSH.
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I discovered recently that SSH, when leveraged properly, can create a layman's personal VPN. Cool, right? 
+VPN's are necessary in today's times like never before. The rise of modern-day hacking alone validates the necessity of this technology, but VPN's do more than just that. They, for example, provide a workaround for users to access geolocked content by temporarily providing said user with an IP address which when dissceted claims to come from a different country! Cool stuff, all this.
+Well, while exploring ssh, I discovered that 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
